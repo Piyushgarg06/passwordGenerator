@@ -42,12 +42,6 @@ And yes, it works beautifully — it generates strong random passwords with adju
 
 ---
 
-## 📸 Preview
-
-_(Add screenshots here!)_
-
----
-
 ## 🛠️ Getting Started
 
 Clone the repo:
